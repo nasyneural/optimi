@@ -16,8 +16,8 @@ Inputs
   - SimNIBS final_tissues.nii.gz                 (optional — detailed tissues;
                                                   falls back to kPlan medium mask)
   - Primary target mask .nii/.nii.gz             (optional)
-  - region_mask_folder/ of nuclei + HO atlases   (optional)
-  - T1.nii.gz                                     (optional — plot background)
+  - region_mask_folder/ of roi + atlases         (optional)
+  - T1.nii.gz                                    (optional — plot background)
 
 Author: nasyneural
 ================================================================================
